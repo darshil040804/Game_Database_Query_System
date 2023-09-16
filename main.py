@@ -1,7 +1,7 @@
 #####################################################################################################
 # ALGORITHM
 #
-# Computer Project #08
+# Game Database Query System
 #
 # This project uses 10 function and a main function. It answers the user search queries by finding
 # appropriate games from the database. The ten functions used are as follows:
